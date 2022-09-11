@@ -16,7 +16,7 @@ Example 工程
 
 ## 组件分析
 
-![](https://github.com/LLLLLayer/picture-bed/blob/main/img/dubheKit/DubheKit4.png)
+![](https://github.com/LLLLLayer/picture-bed/blob/main/img/dubheKit/DubheKit4.jpeg)
 我们可以将上述的业务逻辑分解为四个组件：
 1. ListComponent  为消息列表组件，进行消息列表的展示。
 - ListComponentInterface 为 ListComponent 对外暴露的接口。
