@@ -13,9 +13,7 @@ Example 工程
 - 需要对用户发出的信息进行检查，根据一定条件触发一个弹窗，内容可由不同业务定制，如安全弹窗、彩蛋弹窗。
 
 <center class="half">
-    <img src="https://github.com/LLLLLayer/picture-bed/blob/main/img/dubheKit/DubheKit1.png" width="200"/>
-    <img src="https://github.com/LLLLLayer/picture-bed/blob/main/img/dubheKit/DubheKit1.png" width="200"/>
-    <img src="https://github.com/LLLLLayer/picture-bed/blob/main/img/dubheKit/DubheKit1.png" width="200"/>
+    <img src="https://github.com/LLLLLayer/picture-bed/blob/main/img/dubheKit/DubheKit1.png" width="200"/><img src="https://github.com/LLLLLayer/picture-bed/blob/main/img/dubheKit/DubheKit1.png" width="200"/><img src="https://github.com/LLLLLayer/picture-bed/blob/main/img/dubheKit/DubheKit1.png" width="200"/>
 </center>
 
 ## 组件分析
