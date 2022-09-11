@@ -1,0 +1,6 @@
+framework module DubheKit {
+  umbrella header "DubheKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

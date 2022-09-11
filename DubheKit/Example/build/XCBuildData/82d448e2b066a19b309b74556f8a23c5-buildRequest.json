@@ -1,0 +1,52 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98323d36823c1ac39973c3f8e100a5f2a6"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9887c72e79e28d25c2e68dd5c3ab0c782c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ee16abf5bed5f7342ca0e392fe75fef9"
+    }
+  ],
+  "containerPath" : "/Users/bytedance/Downloads/Layer/DubheKit/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/bytedance/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/bytedance/Library/Developer/Xcode/DerivedData/Pods-hhddljpkwwcirnedeqxewoqkqjof/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/bytedance/Library/Developer/Xcode/DerivedData/Pods-hhddljpkwwcirnedeqxewoqkqjof/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

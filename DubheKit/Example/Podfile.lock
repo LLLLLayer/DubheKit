@@ -1,0 +1,16 @@
+PODS:
+  - DubheKit (0.1.0)
+
+DEPENDENCIES:
+  - DubheKit (from `../`)
+
+EXTERNAL SOURCES:
+  DubheKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DubheKit: ce7c7a9ee7707ad259853bd90d2b153c04638424
+
+PODFILE CHECKSUM: ed944c8d5afc35c1a7619cef7aee50d64eca6499
+
+COCOAPODS: 1.10.2

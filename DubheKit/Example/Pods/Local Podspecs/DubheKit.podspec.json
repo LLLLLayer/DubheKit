@@ -1,0 +1,22 @@
+{
+  "name": "DubheKit",
+  "version": "0.1.0",
+  "summary": "A short description of DubheKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LLLLLayer/DubheKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LLLLLayer": "yangjie.layer@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/LLLLLayer/DubheKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DubheKit/Classes/**/*"
+}

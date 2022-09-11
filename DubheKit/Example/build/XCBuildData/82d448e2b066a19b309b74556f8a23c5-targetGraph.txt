@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+DubheKit in Pods, no dependencies
+Pods-DubheKit_Example in Pods, depends on:
+DubheKit in Pods (explicit)
+Pods-DubheKit_Tests in Pods, depends on:
+Pods-DubheKit_Example in Pods (explicit)
